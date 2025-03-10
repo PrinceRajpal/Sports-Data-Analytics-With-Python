@@ -1,1 +1,2 @@
 # Sports-Data-Analytics-With-Python
+The project involves utilizing data analytics techniques to explore and understand the characteristics and performance metrics of strikers. By employing descriptive statistics, data visualization, feature engineering, and machine learning algorithms, we aim to identify the key attributes that contribute to a striker's success on the field and classify them into different categories based on their performance.
